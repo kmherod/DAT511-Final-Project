@@ -1,2 +1,2 @@
 # DAT511-Final-Project
-Explore the NOAA Storm Database and analyze data about severe weather events
+Analysis of U.S. Severe Weather Events and Their Impacts
