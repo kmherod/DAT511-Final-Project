@@ -106,7 +106,7 @@ kable(
 )
 
 
-# 3.	Which types of events are characterized by which months?
+# 3. Which types of events are characterized by which months?
 
 # Summary table of storm event count per month
 events_per_month_event <- joined_data %>%
@@ -186,3 +186,4 @@ ggplot(top10_counties,
     y = "Total Injuries & Deaths"
   ) +
   theme_minimal()
+
